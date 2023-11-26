@@ -332,9 +332,9 @@
     "apply": "应用",
 
     "fork": "复刻",
-    "Existing forks": "现有复刻",
-    "Create a new fork": "创建一个新复刻",
-    "Report repository": "报告存储库",
+    "existing forks": "现有复刻",
+    "create a new fork": "创建一个新复刻",
+    "report repository": "报告存储库",
     "unfork": "取消复刻",
     "new": "新建",
     "languages": "语言",
